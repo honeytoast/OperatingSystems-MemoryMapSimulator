@@ -1,6 +1,8 @@
 /* Name: Grace Hadiyanto 
 ** 
 ** Included files: README.txt
+**                 in1.txt (sample workload input file)
+**                 Out2.txt (sample output that corresponds to choosing page size option 2 with the sample input file)
 **                 makefile
 **                 frame.h
 **                 process.h
